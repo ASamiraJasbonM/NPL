@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "fragmentos_originales": 61,
+  "fragmentos_procesados": 56,
+  "preprocesamiento": {
+    "minisculas": true,
+    "eliminacion_puntuacion": true,
+    "eliminacion_numeros": true,
+    "eliminacion_tildes": true,
+    "stopwords_usadas": [
+      "fuese",
+      "toda",
+      "tendríamos",
+      "su",
+      "habidas",
+      "estemos",
+      "quien",
+      "fuimos",
+      "nuestras",
+      "tendrán",
+      "tendrías",
+      "quienes",
+      "estamos",
+      "hubo",
+      "tendréis",
+      "tendrá",
+      "estuviera",
+      "estaremos",
+      "un",
+      "unos"
+    ],
+    "lematizacion": "manual_reglas_morfologicas"
+  }
+}

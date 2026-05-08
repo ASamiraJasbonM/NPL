@@ -1,0 +1,18 @@
+{
+    "familia": [
+      "custodia", "alimentos", "patria potestad", "divorcio", "régimen de visitas",
+      "adopción", "filiación", "parentesco", "violencia intrafamiliar", "nulidad matrimonial"
+    ],
+    "laboral": [
+      "contrato de trabajo", "despido", "salario", "jornada laboral", "acoso laboral",
+      "indemnización", "estabilidad laboral", "sindicato", "riesgo profesional", "seguridad social"
+    ],
+    "penal": [
+      "delito", "prisión", "indulto", "homicidio", "hurto", "extorsión", "libertad condicional",
+      "investigación penal", "imputado", "sentencia condenatoria"
+    ],
+    "civil": [
+      "contrato", "responsabilidad civil", "propiedad", "sucesión", "testamento",
+      "arrendamiento", "usucapión", "obligaciones", "prescripción", "daños y perjuicios"
+    ]
+  }
