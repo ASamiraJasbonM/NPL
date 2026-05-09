@@ -37,7 +37,6 @@ Menú interactivo con opciones para limpiar textos, clasificarlos por área lega
 ## Tests
 
 ```bash
-pip install pytest
 python -m pytest tests/ -v
 ```
 
