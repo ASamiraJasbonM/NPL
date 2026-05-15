@@ -5,6 +5,30 @@ build/
 dist/
 wheels/
 *.egg-info
+.ruff_cache/
+.ipynb_checkpoints/
 
 # Virtual environments
 .venv
+
+# Model checkpoints (regeneratable)
+justia_beto_output/
+
+# Generated plots and visualizations
+*.png
+
+# Generated NER outputs
+*_entidades.html
+entidades_juridicas_justia.csv
+
+# Preprocessed/generated data
+corpus_limpio.json
+corpus_limpio_corregido.json
+diccionario_justia.json
+metadatos_preprocesamiento.json
+
+# Lock file (regeneratable via uv lock)
+uv.lock
+
+# Stray system file
+nul
